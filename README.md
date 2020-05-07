@@ -1,1 +1,1 @@
-Here one can find a few projects to practice computer vision skills in python 
+Here you can find a few projects using computer vision skills in python 
