@@ -8,5 +8,5 @@ Here the goal is to create a classifier that automatically detects honey bees an
 
 **3.** Building a deep learning model that automatically detects honey bees and bumble bees from images.
 
-This problem was a competition by Driven Data: [Naive Bees Classifier](https://www.drivendata.org/competitions/8/)
+This problem was a competition by Driven Data: [Naive Bees Classifier](https://www.drivendata.org/competitions/8/). 
 The project is part of DataCamp, and here I am sharing my results after completing the project.
