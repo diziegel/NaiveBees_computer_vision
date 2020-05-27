@@ -1,4 +1,4 @@
-## Naive Bees
+## Naive Bees Classifier
 
 Here the goal is to create a classifier that automatically detects honey bees and bumble bees from images in python. There are three parts to this project:
 
